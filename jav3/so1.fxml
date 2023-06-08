@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.text.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text layoutX="179.0" layoutY="30.0" strokeType="OUTSIDE" strokeWidth="0.0" text="Studen" textAlignment="CENTER" wrappingWidth="241.70654296875" />
+      <ListView layoutX="14.0" layoutY="94.0" prefHeight="200.0" prefWidth="200.0" />
+      <Button layoutX="458.0" layoutY="35.0" mnemonicParsing="false" style="-fx-background-color: red;" text="Button" textAlignment="CENTER" />
+   </children>
+</Pane>
